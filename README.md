@@ -1,2 +1,2 @@
 # People-Counting-System
-A project developed for a company's task
+A project developed as a task for recruitment process.
