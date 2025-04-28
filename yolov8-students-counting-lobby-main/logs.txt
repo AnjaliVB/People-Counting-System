@@ -1,3 +1,0 @@
-People counting System
-Number of people entered:3
-Number of people exited:5
